@@ -1,0 +1,179 @@
+
+Please review the materials listed below and answer the questions. Your answers should be comprehensive.
+
+1. Corporate finance deals with investment decisions (also called capital budgeting or capital expenditure or CAP-EX for short), financing decisions, and working capital management decisions. What are these decisions? Describe in one to two sentences. Also, provide one real-world example (can find in finance press or create your own) for each decision.
+Answer: CAP-EX can be understood as decisions that use company funds to “…acquire, upgrade or maintain physical assets such as property, industrial buildings, or equipment” (Tamplin, 2023). An example of a couple CAP-EX decisions can be identified regarding business start ups with spending money on market research or environmental impact assessments. These startup costs could be broken into two categories: capital expenditures or operating expenses. A real example that is happening currently can be found on this link. The story talks about how the big three communications companies are currently expanding their network to acquire more consumers. Specifically, AT&T is increasing their physical reach by investing in more fiber connections for AT&T, for instance, to increase revenue. 
+
+2. Read the relevant section from the book chapter and discuss the roles of Chief Financial
+Officer (CFO) in the US corporate firms. Additionally, read/watch https://www2.deloitte.com/us/en/pages/finance/articles/gx-cfo-role-responsibilities-organization-steward-operator-catalyst-strategist.html.  and what CFOs are expected to do beyond making above discussed finance functions.
+
+Answer: The video on Deloitte’s website discusses the four different sectors of a CFO’s jobs, according to them. These four sectors include Catalyst, Strategist, Steward, and Operator. In summary, CFOs are stewards of the vital assets that the company, and they have a responsibility to “… communicate value and risk issues to investors and boards” (Deloitte, 2022). The Operator’s tasks are comprised of providing financial expertise to the company. They must ensure they are moving the company forward with the savviest financial plan possible to ensure the goals of the organization are within reach. The Strategist component is self-explanatory because the CFO sits at the executive leadership table. However, to dial in deeper, their financial expertise brings the element of success and what’s currently possible with the capital the company has as well as what is achievable in a particular timeline based on certain financial analytics. To achieve these goals, the company will likely need to invest, and the CFO will play a large role in selecting smart investments that best suit the organization’s long and short-term goals. The Catalyst role is the last of the four sectors. The Catalyst must support the mission of the company and drive success/ innovation to produce results for the organization with their influence. 
+
+
+3. Go to: https://www.nolo.com/legal-encyclopedia/learn-about-business-ownership-structures-29785.html 
+
+• List the different types of business ownership structures discussed on this page.
+Answer: The different types of business ownership structures discussed on this page include sole proprietorship, partnership, limited partnership, limited liability company (LLC), corporation (for-profit), nonprofit corporation (not-for-profit), and cooperatives. 
+
+• Read the details of the first five types of business structures discussed there. State two
+distinctive features of each of the five business types.
+Answer: 1). Sole proprietorships are inseparable from their owners. They are responsible for all the assets and liabilities of the company. Secondly, they have no protection from being personally sued for the issues caused with their company. 2). Partnerships also have no paperwork or fees associated with creating them. No paperwork is needed to legally create one. Each partner is responsible for paying taxes on their share of the business’s income. Decision making is a two person or more job since the partnership is split between two or more individuals. All partners are responsible for the liabilities of the company. 3). Limited Partnerships are different since they do have paperwork to form these types of business structures. It can be a good opportunity for investors, depending on the risk they are wanting to take on with a company. The limited partners, who could be investors, have little control over the direction and decision-making aspect of the company since the General Partner is the one who is primarily responsible for running the company as well as they are responsible for all the company’s liabilities. 4). Limited Liability Companies (LLC) is a smart strategy for business owners who want to separate their personal finances from the company’s in regard to risk. The business is essentially its own entity that has its own debts, income that must be reported; however, the owner does pay taxes on their share of the business’s income. In short, a benefit of an LLC would be if a customer were to sue the LLC, the owner’s assets would still be protected. 5). Corporations are like an LLC with the level of protection that it provides for its owners. However, Corporations are also their own entity in many ways. Ownership is easily transferred with Corporations as well. Someone can buy one, and the current owners shares will be transferred to the new owner.
+
+• Explain the limited liability protection and the double taxation.
+Answer: The limited liability protection is a concept that I briefly dived into in the previous answers. Essentially, it’s the separation of the business owner from the liabilities of the company. Also, if someone were to sue the company, it would be the company that would be at stake/ responsible. The owner would not have their personal finances risked. As for double taxation, this concept happens when a company’s profits are taxed twice at both the corporate level and the shareholder level. (SBA, 2025)
+
+4. Check: https://aflcio.org/paywatch/highest-paid-ceos 
+You see that the top corporate managers in the US are paid very high. How are their
+compensations designed? Why are their compensations packaged that way? (You can refer
+to corporate finance by Gokhale and Adhikari).
+Answer:  The top corporate managers’ compensation packages are designed much differently than the average corporate employee. Namely, their compensation packages consist of a base salary, bonuses, stock and option awards. The book talks about how this compensation structure for Top level management is designed this way is to mitigate the agency problem from happening. This design typically aligns with the interest of the shareholders and managers, that way the manager will act in the best interest of the organization. In my own words, I would say it gives the managers more “skin in the game.” In other words, the managers are compensated based on performance of the company; therefore, they will make more money if the company performs better. 
+
+5. Go to: https://www.investor.gov/introduction-investing/investing-basics/role-sec/laws-govern-securities-industry 
+• What are the main objectives of the Securities Act of 1933?
+Answer: The Securities Act of 1933 is often referred to as the truth in securities. The summary of the objectives completed by this Act are to require that investors receive financial and other important information to prohibit deceit, misrepresentations, and fraud for securities being sold to the public. 
+
+• Which act created the Securities and Exchange Commission (SEC)? What authorities
+does that act provide to SEC?
+Answer: The Securities and Exchange Commission was created by Congress by using the Securities Exchange Act of 1934. It provides the SEC with the “…power to register, regulate, and oversee brokerage firms, transfer agents, and clearing agencies as well as the nation's securities self-regulatory organizations (SROs)” (SEC, n.d.). In short, it allows the SEC “broad authority over all aspects of the securities industry” (SEC, n.d.). 
+
+• What are the key features of the Sarbanes-Oxley Act of 2002? How do you relate this
+Act with corporate scandals at companies like Enron, WorldCom, and so on?
+Answer: The key features of this act are that the PCAOB or Public Company Accounting Oversight Board was created to combat corporate and accounting fraud. CEO and CFO Certification is now required for financial statements. There are whistleblower protections that were incorporated from this Act as well. 
+
+In relation to the corporate scandals at companies like Enron & WorldCom this Act was a direct response to these events. The goal was to restore investor confidence, prevent future scandals, and strengthen corporate governance. It was successful in improving financial and accounting integrity in corporate companies; however, its vast impact is debatable as to whether it was truly a “positive” Act. 
+
+• Describe the main objectives of the Dodd-Frank Wall Street Reform and Consumer
+Protection Act of 2010
+Answer: The main objectives of this Act were to reshape the regulatory system for consumer protection, trading restrictions, credit ratings, regulation of financial products, corporate governance and disclosure as well as transparency. (SEC, n.d.) It accordance with these goals, it created the Consumer Financial Protection Bureau or CFPB for short. The CFPB is tasked with protecting consumers from abusive financial practices. 
+
+
+
+
+
+References
+Deloitte. (2022, March 23). Four faces of the CFO: Deloitte: CFO Program. Deloitte United States. https://www2.deloitte.com/us/en/pages/finance/articles/gx-cfo-role-responsibilities-organization-steward-operator-catalyst-strategist.html
+SBA. (2025). Choose a business structure. U.S. Small Business Administration. https://www.sba.gov/business-guide/launch-your-business/choose-business-structure#:~:text=Unlike%20sole%20proprietors%2C%20partnerships%2C%20and,income%20tax%20on%20their%20profits.  
+SEC. (n.d.). The laws that govern the securities industry. The Laws That Govern the Securities Industry | Investor.gov. https://www.investor.gov/introduction-investing/investing-basics/role-sec/laws-govern-securities-industry
+Tamplin, T. (2023). Capital expenditure report: Case studies: Real world examples of successful capital expenditure management. FasterCapital. https://fastercapital.com/content/Capital-Expenditure-Report--Case-Studies--Real-world-Examples-of-Successful-Capital-Expenditure-Management.html
+
+In-class activities 2.1 _ Ch 2 	
+Name: Jacob Edwards (2407016)
+
+Please answer/solve the following questions/problems clearly and concisely. 
+	Go to sec.gov => Filings => Look for the most recent (Dec 31, 2023) 10-K of Delta airlines (DAL) 
+
+	Go to pages 58-62 and answer the following questions.
+
+1.	Look at the Consolidated Balance Sheets.
+a.	What are the corresponding names of Noncurrent Assets and non-current Liabilities in the textbook?
+Answer: Noncurrent Assets are typically referred to as Long-Term Assets, and Noncurrent Liabilities are typically referred to as Long-Term Debt. 
+b.	List the airlines specific current liabilities items.
+Answer: Current maturities of debt and finance leases, current maturities of operating leases, air traffic liability, accounts payable, accrued salaries and related benefits, loyalty program deferred revenue, fuel card obligation, other accrued liabilities. 
+c.	How much was the change in total assets of Delta from year 2022 to year 2023?
+Answer: The change was an increase of $1356.00 from 2022 to 2023 in total assets.
+d.	How much was the net working capital of Delta in the year 2022? How much was the net working capital in 2023?
+Answer: In 2022 the NWC was $-16,149.00 and in 2023 the NWC was $-12,929.00
+e.	What was the change in net working capital of Delta from year 2022 to year 2023?
+Answer: The change was positive: $3,220.00
+
+2.	Look at the consolidated Statements of Operations
+a.	What percentage of the total Operating revenue was from passenger revenue in the year 2022? How much was it in the year 2023?
+Answer: In 2022, passenger revenue accounted for 79.51% of the total operating revenue. It was 84.25% in 2023.
+b.	List the operating expense items that are specific to airlines. 
+Answer: Aircraft fuel and related taxes, landing fees and other rents, aircraft maintenance materials and outside repairs, passenger commissions and other selling expenses, regional carrier expenses, passenger service, pilot agreement and related expenses, aircraft rent. 
+
+
+Following questions are unrelated to the Delta’s 10-K
+3.	Sheraton, Inc. has sales of $670,000, costs of $332,000, depreciation expense of $76,000, interest expense of $48,000, and a tax rate of 23 percent. 
+a.	Create an income statement.
+Answer:  
+
+b.	What is the net income for the firm?
+Answer: $164,780.00
+c.	Suppose the company paid out $45,000 in cash dividends. What is the addition to retained earnings?
+ Answer: Net income – cash dividends paid out = $119,780.00
+
+
+ 
+4.	Bob Anderson is single and had $198,000 in taxable income. Use the rates from Table below:
+  
+
+a.	Calculate his income taxes. 
+Answer: $ 44,187.00
+b.	What is the average tax rate? 
+Answer: 22.32%
+c.	What is the marginal tax rate?
+Answer: 32%
+
+5.	 During the year, the Halifax Company had gross sales of $1.11 million. The company’s cost of goods sold and selling expenses were $580,000 and $233,000, respectively. The company also had notes payable of $720,000. These notes carried an interest rate of 4 percent. Depreciation was $110,000. The tax rate was 25 percent.
+
+a.	What was the company’s net income? 
+Answer: $118,650.00
+b.	What was the company’s operating cash flow?
+Answer: $257,450.00
+
+6.	Global Link, Inc. is obligated to pay its creditors $6,900 very soon. 
+a.	What is the market value of the shareholders’ equity if assets have a market value of $10,500?
+Answer: $3,600.00
+b.	What is the market value of the shareholders’ equity if assets equal $6,300? 
+Answer: $-600.00
+
+7.	DaytoRace Corporation shows the following information on its 2021 income statement: Sales = $403,000; Costs = $305,000; Other expenses = $7,900; Depreciation expense = $18,200; Interest expense = $13,800; Taxes = $20,335; Dividends = $11,000. In addition, you’re told that the firm issued $5,300 in new equity during 2021 and redeemed $3,800 in outstanding long-term debt. 
+
+a.	What is the 2021 operating cash flow?
+Answer: $69,765.00
+b.	What is the 2021 cash flow to creditors?
+Answer: $17,600.00
+c.	What is the 2021 cash flow to stockholders?
+Answer: $5,700.00
+
+
+8.	Given the following information for SixGuys Company, calculate the depreciation expense: Sales = $85,000; Costs = $42,600; Addition to retained earnings = $12,800; Dividends paid = $3,220; Interest expense = $3,550; Tax rate = 25 percent. 
+Answer: $ 17,490.00
+
+9.	Use the following information for Zarb, Incorporated. Assume the tax rate is 22 percent.
+ 
+ 
+
+ 
+ 	 2020	  2021
+Sales	$ 18,573	$ 17,136
+Depreciation	1,801	1,876
+Cost of goods sold	4,679	4,847
+Other expenses	1,016	894
+Interest	865	996
+Cash	6,277	6,886
+Accounts receivable	8,180	9,847
+Short-term notes payable	1,310	1,287
+Long-term debt	20,740	24,986
+Net fixed assets	51,196	54,693
+Accounts payable	4,608	5,064
+Inventory	14,521	15,428
+Dividends	1,650	1,758
+ 
+
+a.	Prepare a balance sheet for this company for 2020 and 2021.
+Answer:
+  
+b.	Prepare an income statement for this company for 2020 and 2021. 
+Answer:
+
+Income Statement	2020	2021
+Sales	$18,573	$17,136
+Cost of Goods Sold (COGS)	$4,679	$4,847
+Gross Profit	$13,894	$12,289
+Other Expenses	$1,016	$894
+Depreciation	$1,801	$1,876
+EBIT (Operating Income)	$11,077	$9,519
+Interest	$865	$996
+EBT	$10,212	$8,523
+Taxes (25%)	$2,553	$2,131
+Net Income	$7,659	$6,392
+
+
+
+
+
+
+
+

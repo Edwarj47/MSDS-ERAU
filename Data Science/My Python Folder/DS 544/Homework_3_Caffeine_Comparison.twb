@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20231.24.0809.0841                               -->
+<workbook original-version='18.1' source-build='2023.1.16 (20231.24.0809.0841)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='Sheet1 (Coffee_Caffeine_Content)' inline='true' name='federated.093vlpt009q5e317z2t1i0ilpce4' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Coffee_Caffeine_Content' name='excel-direct.0r5sskh1xyt2z615zhqy60sruhs9'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/campk/OneDrive/My Python Folder/DS 544/Coffee_Caffeine_Content.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.0r5sskh1xyt2z615zhqy60sruhs9' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:D14:no:A1:D14:0' header='yes' outcome='6'>
+            <column datatype='string' name='Chain' ordinal='0' />
+            <column datatype='string' name='Product' ordinal='1' />
+            <column datatype='integer' name='Caffeine (mg)' ordinal='2' />
+            <column datatype='integer' name='Drink size (ml)' ordinal='3' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.0r5sskh1xyt2z615zhqy60sruhs9' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:D14:no:A1:D14:0' header='yes' outcome='6'>
+            <column datatype='string' name='Chain' ordinal='0' />
+            <column datatype='string' name='Product' ordinal='1' />
+            <column datatype='integer' name='Caffeine (mg)' ordinal='2' />
+            <column datatype='integer' name='Drink size (ml)' ordinal='3' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:D14:no:A1:D14:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Chain</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Chain]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Chain</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_58A2BDCA12C9463AA5CF853F315C446A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Product</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Product]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Product</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_58A2BDCA12C9463AA5CF853F315C446A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Caffeine (mg)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Caffeine (mg)]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Caffeine (mg)</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_58A2BDCA12C9463AA5CF853F315C446A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Drink size (ml)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Drink size (ml)]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Drink size (ml)</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_58A2BDCA12C9463AA5CF853F315C446A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Norm_Caffeine_Content' datatype='real' name='[Calculation_1769633184357236736]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='( [Caffeine (mg)] - {FIXED : MIN([Caffeine (mg)])} ) / ( {FIXED : MAX([Caffeine (mg)])} - {FIXED : MIN([Caffeine (mg)])} )' />
+      </column>
+      <column caption='Norm_Drink_Size' datatype='real' name='[Calculation_1769633184357396481]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='( [Drink size (ml)] - {FIXED : MIN([Drink size (ml)])} ) / ( {FIXED : MAX([Drink size (ml)])} - {FIXED : MIN([Drink size (ml)])} )' />
+      </column>
+      <column datatype='string' name='[Chain]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='Sheet1' datatype='table' name='[__tableau_internal_object_id__].[Sheet1_58A2BDCA12C9463AA5CF853F315C446A]' role='measure' type='quantitative' />
+      <column-instance column='[Chain]' derivation='None' name='[none:Chain:nk]' pivot='key' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Chain:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Caffe Nero&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Starbucks&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;Pret&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Greggs&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Costa&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Sheet1' id='Sheet1_58A2BDCA12C9463AA5CF853F315C446A'>
+            <properties context=''>
+              <relation connection='excel-direct.0r5sskh1xyt2z615zhqy60sruhs9' name='Sheet1' table='[Sheet1$]' type='table'>
+                <columns gridOrigin='A1:D14:no:A1:D14:0' header='yes' outcome='6'>
+                  <column datatype='string' name='Chain' ordinal='0' />
+                  <column datatype='string' name='Product' ordinal='1' />
+                  <column datatype='integer' name='Caffeine (mg)' ordinal='2' />
+                  <column datatype='integer' name='Drink size (ml)' ordinal='3' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Caffeine Content by Product and Chain
+</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet1 (Coffee_Caffeine_Content)' name='federated.093vlpt009q5e317z2t1i0ilpce4' />
+          </datasources>
+          <datasource-dependencies datasource='federated.093vlpt009q5e317z2t1i0ilpce4'>
+            <column datatype='integer' name='[Caffeine (mg)]' role='measure' type='quantitative' />
+            <column caption='Norm_Caffeine_Content' datatype='real' name='[Calculation_1769633184357236736]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='( [Caffeine (mg)] - {FIXED : MIN([Caffeine (mg)])} ) / ( {FIXED : MAX([Caffeine (mg)])} - {FIXED : MIN([Caffeine (mg)])} )' />
+            </column>
+            <column datatype='string' name='[Chain]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Product]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_1769633184357236736]' derivation='Max' name='[max:Calculation_1769633184357236736:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Chain]' derivation='None' name='[none:Chain:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Product]' derivation='None' name='[none:Product:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_1769633184357236736]' derivation='Sum' name='[sum:Calculation_1769633184357236736:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <computed-sort column='[federated.093vlpt009q5e317z2t1i0ilpce4].[none:Chain:nk]' direction='DESC' using='[federated.093vlpt009q5e317z2t1i0ilpce4].[max:Calculation_1769633184357236736:qk]' />
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.093vlpt009q5e317z2t1i0ilpce4].[none:Product:nk]' value='342' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.093vlpt009q5e317z2t1i0ilpce4].[none:Chain:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.093vlpt009q5e317z2t1i0ilpce4].[sum:Calculation_1769633184357236736:qk]</rows>
+        <cols>[federated.093vlpt009q5e317z2t1i0ilpce4].[none:Product:nk]</cols>
+      </table>
+      <simple-id uuid='{274CC2E9-E514-46E9-929C-C50F6CA1E6A7}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.093vlpt009q5e317z2t1i0ilpce4].[none:Chain:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.093vlpt009q5e317z2t1i0ilpce4].[none:Chain:nk]</field>
+            <field>[federated.093vlpt009q5e317z2t1i0ilpce4].[none:Product:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{A2308E22-743B-47FE-B7F0-933290E7D1C0}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+      AABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>
